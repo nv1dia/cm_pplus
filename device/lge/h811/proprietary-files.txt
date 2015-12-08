@@ -1,0 +1,11 @@
+# acdb
+vendor/lib/libacdbloader.so
+vendor/lib64/libacdbloader.so
+etc/acdbdata/Bluetooth_cal.acdb
+etc/acdbdata/General_cal.acdb
+etc/acdbdata/Global_cal.acdb
+etc/acdbdata/Handset_cal.acdb
+etc/acdbdata/Hdmi_cal.acdb
+etc/acdbdata/Headset_cal.acdb
+etc/acdbdata/Speaker_cal.acdb
+etc/acdbdata/workspaceFile.qwsp

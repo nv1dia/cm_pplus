@@ -1,0 +1,10 @@
+# mount point	fstype    device    	[device2]
+
+/boot       ext4        boot 		/dev/block/mmcblk0p40
+/cache      ext4        cache		/dev/block/mmcblk0p52
+/data       ext4 	userdata	/dev/block/mmcblk0p53	
+/misc       ext4        misc		/dev/block/mmcblk0p25	
+/recovery   ext4        recovery	/dev/block/mmcblk0p41
+/sdcard     vfat        sdcard        	/dev/block/mmcblk0p53
+/system     ext4      	system		/dev/block/mmcblk0p51
+/sd-ext     ext4        external-sd	/devices/soc.0/f98a4900.sdhci/mmc_host
